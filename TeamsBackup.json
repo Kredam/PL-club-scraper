@@ -1,0 +1,2682 @@
+{
+    "Arsenal": {
+        "Team name": "Arsenal",
+        "Abbreviation": "ARS",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t3.png",
+        "Table position": 10,
+        "Matches player": 6,
+        "Matches won": 3,
+        "Matcher draw": 0,
+        "Matches lost": 3,
+        "Points": 9,
+        "Goal difference": 0,
+        "Next match": "Arsenal's next match takes place: ('17:30', ' Saturday 2 October 2021') against = BHA",
+        "Previous match": "Recent Result - Sunday 26 September 2021 \nArsenal - TOT\n  3 -1",
+        "Players": {
+            "Bernd Leno": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Arthur Okonkwo": {
+                "player_number": "33",
+                "player_position": "Goalkeeper"
+            },
+            "Karl Hein": {
+                "player_number": "49",
+                "player_position": "Goalkeeper"
+            },
+            "Aaron Ramsdale": {
+                "player_number": "32",
+                "player_position": "Goalkeeper"
+            },
+            "Kieran Tierney": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Gabriel Magalh\u00e3es": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Rob Holding": {
+                "player_number": "16",
+                "player_position": "Defender"
+            },
+            "C\u00e9dric Soares": {
+                "player_number": "17",
+                "player_position": "Defender"
+            },
+            "Calum Chambers": {
+                "player_number": "21",
+                "player_position": "Defender"
+            },
+            "Pablo Mar\u00ed": {
+                "player_number": "22",
+                "player_position": "Defender"
+            },
+            "Sead Kolasinac": {
+                "player_number": "31",
+                "player_position": "Defender"
+            },
+            "Nuno Tavares": {
+                "player_number": "20",
+                "player_position": "Defender"
+            },
+            "Ben White": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Takehiro Tomiyasu": {
+                "player_number": "18",
+                "player_position": "Defender"
+            },
+            "Bukayo Saka": {
+                "player_number": "7",
+                "player_position": "Midfielder"
+            },
+            "Thomas Partey": {
+                "player_number": "5",
+                "player_position": "Midfielder"
+            },
+            "Mohamed Elneny": {
+                "player_number": "25",
+                "player_position": "Midfielder"
+            },
+            "Emile Smith Rowe": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Granit Xhaka": {
+                "player_number": "34",
+                "player_position": "Midfielder"
+            },
+            "Ainsley Maitland-Niles": {
+                "player_number": "15",
+                "player_position": "Midfielder"
+            },
+            "Albert Sambi Lokonga": {
+                "player_number": "23",
+                "player_position": "Midfielder"
+            },
+            "Martin \u00d8degaard": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Alexandre Lacazette": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Pierre-Emerick Aubameyang": {
+                "player_number": "14",
+                "player_position": "Forward"
+            },
+            "Nicolas P\u00e9p\u00e9": {
+                "player_number": "19",
+                "player_position": "Forward"
+            },
+            "Eddie Nketiah": {
+                "player_number": "30",
+                "player_position": "Forward"
+            },
+            "Gabriel Martinelli": {
+                "player_number": "35",
+                "player_position": "Forward"
+            },
+            "Folarin Balogun": {
+                "player_number": "26",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Aston Villa": {
+        "Team name": "Aston Villa",
+        "Abbreviation": "AVL",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t7.png",
+        "Table position": 8,
+        "Matches player": 6,
+        "Matches won": 3,
+        "Matcher draw": 1,
+        "Matches lost": 2,
+        "Points": 10,
+        "Goal difference": 0,
+        "Next match": "Aston Villa's next match takes place: ('14:00', ' Sunday 3 October 2021') against = TOT",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nMUN - Aston Villa\n  0 -1",
+        "Players": {
+            "Jed Steer": {
+                "player_number": "12",
+                "player_position": "Goalkeeper"
+            },
+            "Emiliano Mart\u00ednez": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Viljami Sinisalo": {
+                "player_number": "38",
+                "player_position": "Goalkeeper"
+            },
+            "Matthew Cash": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Ezri Konsa": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Tyrone Mings": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Matt Targett": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Kortney Hause": {
+                "player_number": "30",
+                "player_position": "Defender"
+            },
+            "Ashley Young": {
+                "player_number": "18",
+                "player_position": "Defender"
+            },
+            "Axel Tuanzebe": {
+                "player_number": "-",
+                "player_position": "Defender"
+            },
+            "Sil Swinkels": {
+                "player_number": "50",
+                "player_position": "Defender"
+            },
+            "Douglas Luiz": {
+                "player_number": "6",
+                "player_position": "Midfielder"
+            },
+            "John McGinn": {
+                "player_number": "7",
+                "player_position": "Midfielder"
+            },
+            "Tr\u00e9z\u00e9guet": {
+                "player_number": "17",
+                "player_position": "Midfielder"
+            },
+            "Marvelous Nakamba": {
+                "player_number": "19",
+                "player_position": "Midfielder"
+            },
+            "Anwar El Ghazi": {
+                "player_number": "21",
+                "player_position": "Midfielder"
+            },
+            "Morgan Sanson": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Jacob Ramsey": {
+                "player_number": "41",
+                "player_position": "Midfielder"
+            },
+            "Emiliano Buend\u00eda": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Jaden Philogene-Bidace": {
+                "player_number": "32",
+                "player_position": "Midfielder"
+            },
+            "Carney Chukwuemeka": {
+                "player_number": "33",
+                "player_position": "Midfielder"
+            },
+            "Aaron Ramsey": {
+                "player_number": "40",
+                "player_position": "Midfielder"
+            },
+            "Lamare Bogarde": {
+                "player_number": "36",
+                "player_position": "Midfielder"
+            },
+            "Hayden Lindley": {
+                "player_number": "49",
+                "player_position": "Midfielder"
+            },
+            "Ollie Watkins": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Bertrand Traor\u00e9": {
+                "player_number": "15",
+                "player_position": "Forward"
+            },
+            "Keinan Davis": {
+                "player_number": "39",
+                "player_position": "Forward"
+            },
+            "Leon Bailey": {
+                "player_number": "31",
+                "player_position": "Forward"
+            },
+            "Danny Ings": {
+                "player_number": "20",
+                "player_position": "Forward"
+            },
+            "Caleb Chukwuemeka": {
+                "player_number": "46",
+                "player_position": "Forward"
+            },
+            "Cameron Archer": {
+                "player_number": "35",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Brentford": {
+        "Team name": "Brentford",
+        "Abbreviation": "BRE",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t94.png",
+        "Table position": 9,
+        "Matches player": 6,
+        "Matches won": 2,
+        "Matcher draw": 3,
+        "Matches lost": 1,
+        "Points": 9,
+        "Goal difference": 0,
+        "Next match": "Brentford's next match takes place: ('14:00', ' Sunday 3 October 2021') against = WHU",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nBrentford - LIV\n  3 -3",
+        "Players": {
+            "David Raya": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "\u00c1lvaro Fern\u00e1ndez": {
+                "player_number": "40",
+                "player_position": "Goalkeeper"
+            },
+            "Rico Henry": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Charlie Goode": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Ethan Pinnock": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Pontus Jansson": {
+                "player_number": "18",
+                "player_position": "Defender"
+            },
+            "Mads Bech S\u00f8rensen": {
+                "player_number": "29",
+                "player_position": "Defender"
+            },
+            "Mads Roerslev": {
+                "player_number": "30",
+                "player_position": "Defender"
+            },
+            "Dominic Thompson": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Julian Jeanvier": {
+                "player_number": "23",
+                "player_position": "Defender"
+            },
+            "Luka Racic": {
+                "player_number": "32",
+                "player_position": "Defender"
+            },
+            "Finley Stevens": {
+                "player_number": "36",
+                "player_position": "Defender"
+            },
+            "Lewis Gordon": {
+                "player_number": "39",
+                "player_position": "Defender"
+            },
+            "Kristoffer Ajer": {
+                "player_number": "20",
+                "player_position": "Defender"
+            },
+            "Zanka": {
+                "player_number": "22",
+                "player_position": "Defender"
+            },
+            "Christian N\u00f8rgaard": {
+                "player_number": "6",
+                "player_position": "Midfielder"
+            },
+            "Mathias Jensen": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Josh Dasilva": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Bryan Mbeumo": {
+                "player_number": "19",
+                "player_position": "Midfielder"
+            },
+            "Tariqe Fosu-Henry": {
+                "player_number": "24",
+                "player_position": "Midfielder"
+            },
+            "Shandon Baptiste": {
+                "player_number": "26",
+                "player_position": "Midfielder"
+            },
+            "Vitaly Janelt": {
+                "player_number": "27",
+                "player_position": "Midfielder"
+            },
+            "Jan Zamburek": {
+                "player_number": "31",
+                "player_position": "Midfielder"
+            },
+            "Mads Bidstrup": {
+                "player_number": "28",
+                "player_position": "Midfielder"
+            },
+            "Maxwell Haygarth": {
+                "player_number": "37",
+                "player_position": "Midfielder"
+            },
+            "Frank Onyeka": {
+                "player_number": "15",
+                "player_position": "Midfielder"
+            },
+            "Myles Peart-Harris": {
+                "player_number": "25",
+                "player_position": "Midfielder"
+            },
+            "Yoane Wissa": {
+                "player_number": "11",
+                "player_position": "Midfielder"
+            },
+            "Sergi Can\u00f3s": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Marcus Forss": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Ivan Toney": {
+                "player_number": "17",
+                "player_position": "Forward"
+            },
+            "Saman Ghoddos": {
+                "player_number": "14",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Brighton and Hove Albion": {
+        "Team name": "Brighton and Hove Albion",
+        "Abbreviation": "BHA",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t36.png",
+        "Table position": 6,
+        "Matches player": 6,
+        "Matches won": 4,
+        "Matcher draw": 1,
+        "Matches lost": 1,
+        "Points": 13,
+        "Goal difference": 0,
+        "Next match": "Brighton and Hove Albion's next match takes place: ('17:30', ' Saturday 2 October 2021') against = ARS",
+        "Previous match": "Recent Result - Monday 27 September 2021 \nCRY - Brighton and Hove Albion\n  1 -1",
+        "Players": {
+            "Jason Steele": {
+                "player_number": "23",
+                "player_position": "Goalkeeper"
+            },
+            "Robert S\u00e1nchez": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Kjell Scherpen": {
+                "player_number": "16",
+                "player_position": "Goalkeeper"
+            },
+            "Thomas McGill": {
+                "player_number": "38",
+                "player_position": "Goalkeeper"
+            },
+            "Tariq Lamptey": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Adam Webster": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Lewis Dunk": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Dan Burn": {
+                "player_number": "33",
+                "player_position": "Defender"
+            },
+            "Jo\u00ebl Veltman": {
+                "player_number": "34",
+                "player_position": "Defender"
+            },
+            "Shane Duffy": {
+                "player_number": "24",
+                "player_position": "Defender"
+            },
+            "Haydon Roberts": {
+                "player_number": "28",
+                "player_position": "Defender"
+            },
+            "James Furlong": {
+                "player_number": "54",
+                "player_position": "Defender"
+            },
+            "Odeluga Offiah": {
+                "player_number": "57",
+                "player_position": "Defender"
+            },
+            "Antef Tsoungui": {
+                "player_number": "53",
+                "player_position": "Defender"
+            },
+            "Marc Cucurella": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Tudor Baluta": {
+                "player_number": "35",
+                "player_position": "Defender"
+            },
+            "Ed Turns": {
+                "player_number": "55",
+                "player_position": "Defender"
+            },
+            "Yves Bissouma": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Alexis Mac Allister": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Pascal Gro\u00df": {
+                "player_number": "13",
+                "player_position": "Midfielder"
+            },
+            "Adam Lallana": {
+                "player_number": "14",
+                "player_position": "Midfielder"
+            },
+            "Jakub Moder": {
+                "player_number": "15",
+                "player_position": "Midfielder"
+            },
+            "Steven Alzate": {
+                "player_number": "17",
+                "player_position": "Midfielder"
+            },
+            "Solly March": {
+                "player_number": "20",
+                "player_position": "Midfielder"
+            },
+            "Enock Mwepu": {
+                "player_number": "12",
+                "player_position": "Midfielder"
+            },
+            "Taylor Richards": {
+                "player_number": "30",
+                "player_position": "Midfielder"
+            },
+            "Marc Leonard": {
+                "player_number": "42",
+                "player_position": "Midfielder"
+            },
+            "Andrew Moran": {
+                "player_number": "59",
+                "player_position": "Midfielder"
+            },
+            "Aaron Connolly": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Neal Maupay": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Leandro Trossard": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Danny Welbeck": {
+                "player_number": "18",
+                "player_position": "Forward"
+            },
+            "Evan Ferguson": {
+                "player_number": "58",
+                "player_position": "Forward"
+            },
+            "J\u00fcrgen Locadia": {
+                "player_number": "27",
+                "player_position": "Forward"
+            },
+            "Jeremy Sarmiento": {
+                "player_number": "60",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Burnley": {
+        "Team name": "Burnley",
+        "Abbreviation": "BUR",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t90.png",
+        "Table position": 19,
+        "Matches player": 6,
+        "Matches won": 0,
+        "Matcher draw": 2,
+        "Matches lost": 4,
+        "Points": 2,
+        "Goal difference": 0,
+        "Next match": "Burnley's next match takes place: ('15:00', ' Saturday 2 October 2021') against = NOR",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nLEI - Burnley\n  2 -2",
+        "Players": {
+            "Nick Pope": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Will Norris": {
+                "player_number": "25",
+                "player_position": "Goalkeeper"
+            },
+            "Wayne Hennessey": {
+                "player_number": "13",
+                "player_position": "Goalkeeper"
+            },
+            "Matthew Lowton": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Charlie Taylor": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "James Tarkowski": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Ben Mee": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Erik Pieters": {
+                "player_number": "23",
+                "player_position": "Defender"
+            },
+            "Phil Bardsley": {
+                "player_number": "26",
+                "player_position": "Defender"
+            },
+            "Kevin Long": {
+                "player_number": "28",
+                "player_position": "Defender"
+            },
+            "Nathan Collins": {
+                "player_number": "22",
+                "player_position": "Defender"
+            },
+            "Bobby Thomas": {
+                "player_number": "37",
+                "player_position": "Defender"
+            },
+            "Owen Dodgson": {
+                "player_number": "39",
+                "player_position": "Defender"
+            },
+            "Maxwel Cornet": {
+                "player_number": "20",
+                "player_position": "Defender"
+            },
+            "Connor Roberts": {
+                "player_number": "14",
+                "player_position": "Defender"
+            },
+            "Jack Cork": {
+                "player_number": "4",
+                "player_position": "Midfielder"
+            },
+            "J\u00f3hann Gudmundsson": {
+                "player_number": "7",
+                "player_position": "Midfielder"
+            },
+            "Josh Brownhill": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Dwight McNeil": {
+                "player_number": "11",
+                "player_position": "Midfielder"
+            },
+            "Dale Stephens": {
+                "player_number": "16",
+                "player_position": "Midfielder"
+            },
+            "Ashley Westwood": {
+                "player_number": "18",
+                "player_position": "Midfielder"
+            },
+            "Lewis Richardson": {
+                "player_number": "38",
+                "player_position": "Midfielder"
+            },
+            "Aaron Lennon": {
+                "player_number": "17",
+                "player_position": "Midfielder"
+            },
+            "Chris Wood": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Ashley Barnes": {
+                "player_number": "10",
+                "player_position": "Forward"
+            },
+            "Jay Rodriguez": {
+                "player_number": "19",
+                "player_position": "Forward"
+            },
+            "Matej Vydra": {
+                "player_number": "27",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Chelsea": {
+        "Team name": "Chelsea",
+        "Abbreviation": "CHE",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t8.png",
+        "Table position": 3,
+        "Matches player": 6,
+        "Matches won": 4,
+        "Matcher draw": 1,
+        "Matches lost": 1,
+        "Points": 13,
+        "Goal difference": 0,
+        "Next match": "Chelsea's next match takes place: ('15:00', ' Saturday 2 October 2021') against = SOU",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nChelsea - MCI\n  0 -1",
+        "Players": {
+            "Kepa Arrizabalaga": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "\u00c9douard Mendy": {
+                "player_number": "16",
+                "player_position": "Goalkeeper"
+            },
+            "Marcus Bettinelli": {
+                "player_number": "13",
+                "player_position": "Goalkeeper"
+            },
+            "Lucas Bergstrom": {
+                "player_number": "36",
+                "player_position": "Goalkeeper"
+            },
+            "Antonio R\u00fcdiger": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Marcos Alonso": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Andreas Christensen": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Thiago Silva": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Ben Chilwell": {
+                "player_number": "21",
+                "player_position": "Defender"
+            },
+            "Reece James": {
+                "player_number": "24",
+                "player_position": "Defender"
+            },
+            "C\u00e9sar Azpilicueta": {
+                "player_number": "28",
+                "player_position": "Defender"
+            },
+            "Trevoh Chalobah": {
+                "player_number": "14",
+                "player_position": "Defender"
+            },
+            "Malang Sarr": {
+                "player_number": "31",
+                "player_position": "Defender"
+            },
+            "Xavier Mbuyamba": {
+                "player_number": "43",
+                "player_position": "Defender"
+            },
+            "Jorginho": {
+                "player_number": "5",
+                "player_position": "Midfielder"
+            },
+            "N'Golo Kant\u00e9": {
+                "player_number": "7",
+                "player_position": "Midfielder"
+            },
+            "Christian Pulisic": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Mateo Kovacic": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Mason Mount": {
+                "player_number": "19",
+                "player_position": "Midfielder"
+            },
+            "Hakim Ziyech": {
+                "player_number": "22",
+                "player_position": "Midfielder"
+            },
+            "Kai Havertz": {
+                "player_number": "29",
+                "player_position": "Midfielder"
+            },
+            "Ruben Loftus-Cheek": {
+                "player_number": "12",
+                "player_position": "Midfielder"
+            },
+            "Sa\u00fal \u00d1\u00edguez": {
+                "player_number": "17",
+                "player_position": "Midfielder"
+            },
+            "Ross Barkley": {
+                "player_number": "18",
+                "player_position": "Midfielder"
+            },
+            "Timo Werner": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Callum Hudson-Odoi": {
+                "player_number": "20",
+                "player_position": "Forward"
+            },
+            "Romelu Lukaku": {
+                "player_number": "9",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Crystal Palace": {
+        "Team name": "Crystal Palace",
+        "Abbreviation": "CRY",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t31.png",
+        "Table position": 15,
+        "Matches player": 6,
+        "Matches won": 1,
+        "Matcher draw": 3,
+        "Matches lost": 2,
+        "Points": 6,
+        "Goal difference": 0,
+        "Next match": "Crystal Palace's next match takes place: ('14:00', ' Sunday 3 October 2021') against = LEI",
+        "Previous match": "Recent Result - Monday 27 September 2021 \nCrystal Palace - BHA\n  1 -1",
+        "Players": {
+            "Jack Butland": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Vicente Guaita": {
+                "player_number": "13",
+                "player_position": "Goalkeeper"
+            },
+            "Remi Matthews": {
+                "player_number": "19",
+                "player_position": "Goalkeeper"
+            },
+            "Joel Ward": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "James Tomkins": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Nathaniel Clyne": {
+                "player_number": "17",
+                "player_position": "Defender"
+            },
+            "Tyrick Mitchell": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Martin Kelly": {
+                "player_number": "34",
+                "player_position": "Defender"
+            },
+            "Nathan Ferguson": {
+                "player_number": "36",
+                "player_position": "Defender"
+            },
+            "Marc Gu\u00e9hi": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Joachim Andersen": {
+                "player_number": "16",
+                "player_position": "Defender"
+            },
+            "Reece Hannam": {
+                "player_number": "43",
+                "player_position": "Defender"
+            },
+            "Luka Milivojevic": {
+                "player_number": "4",
+                "player_position": "Midfielder"
+            },
+            "Cheikhou Kouyat\u00e9": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Jeffrey Schlupp": {
+                "player_number": "15",
+                "player_position": "Midfielder"
+            },
+            "James McArthur": {
+                "player_number": "18",
+                "player_position": "Midfielder"
+            },
+            "Eberechi Eze": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Jairo Riedewald": {
+                "player_number": "44",
+                "player_position": "Midfielder"
+            },
+            "Michael Olise": {
+                "player_number": "7",
+                "player_position": "Midfielder"
+            },
+            "Conor Gallagher": {
+                "player_number": "23",
+                "player_position": "Midfielder"
+            },
+            "Jesurun Rak-Sakyi": {
+                "player_number": "49",
+                "player_position": "Midfielder"
+            },
+            "Will Hughes": {
+                "player_number": "12",
+                "player_position": "Midfielder"
+            },
+            "Jordan Ayew": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Wilfried Zaha": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Jean-Philippe Mateta": {
+                "player_number": "14",
+                "player_position": "Forward"
+            },
+            "Christian Benteke": {
+                "player_number": "20",
+                "player_position": "Forward"
+            },
+            "Robert Street": {
+                "player_number": "46",
+                "player_position": "Forward"
+            },
+            "Scott Banks": {
+                "player_number": "40",
+                "player_position": "Forward"
+            },
+            "Odsonne \u00c9douard": {
+                "player_number": "22",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Everton": {
+        "Team name": "Everton",
+        "Abbreviation": "EVE",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t11.png",
+        "Table position": 5,
+        "Matches player": 6,
+        "Matches won": 4,
+        "Matcher draw": 1,
+        "Matches lost": 1,
+        "Points": 13,
+        "Goal difference": 0,
+        "Next match": "Everton's next match takes place: ('12:30', ' Saturday 2 October 2021') against = MUN",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nEverton - NOR\n  2 -0",
+        "Players": {
+            "Jordan Pickford": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Asmir Begovic": {
+                "player_number": "15",
+                "player_position": "Goalkeeper"
+            },
+            "Andy Lonergan": {
+                "player_number": "31",
+                "player_position": "Goalkeeper"
+            },
+            "Mason Holgate": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Michael Keane": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Lucas Digne": {
+                "player_number": "12",
+                "player_position": "Defender"
+            },
+            "Yerry Mina": {
+                "player_number": "13",
+                "player_position": "Defender"
+            },
+            "Ben Godfrey": {
+                "player_number": "22",
+                "player_position": "Defender"
+            },
+            "S\u00e9amus Coleman": {
+                "player_number": "23",
+                "player_position": "Defender"
+            },
+            "Jonjoe Kenny": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Jarrad Branthwaite": {
+                "player_number": "32",
+                "player_position": "Defender"
+            },
+            "Allan": {
+                "player_number": "6",
+                "player_position": "Midfielder"
+            },
+            "Fabian Delph": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Gylfi Sigurdsson": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Abdoulaye Doucour\u00e9": {
+                "player_number": "16",
+                "player_position": "Midfielder"
+            },
+            "Andr\u00e9 Gomes": {
+                "player_number": "21",
+                "player_position": "Midfielder"
+            },
+            "Jean-Philippe Gbamin": {
+                "player_number": "25",
+                "player_position": "Midfielder"
+            },
+            "Tom Davies": {
+                "player_number": "26",
+                "player_position": "Midfielder"
+            },
+            "Andros Townsend": {
+                "player_number": "14",
+                "player_position": "Midfielder"
+            },
+            "Richarlison": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Dominic Calvert-Lewin": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Alex Iwobi": {
+                "player_number": "17",
+                "player_position": "Forward"
+            },
+            "Cenk Tosun": {
+                "player_number": "20",
+                "player_position": "Forward"
+            },
+            "Demarai Gray": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Anthony Gordon": {
+                "player_number": "24",
+                "player_position": "Forward"
+            },
+            "Salom\u00f3n Rond\u00f3n": {
+                "player_number": "33",
+                "player_position": "Forward"
+            },
+            "Ellis Simms": {
+                "player_number": "50",
+                "player_position": "Forward"
+            },
+            "Lewis Dobbin": {
+                "player_number": "61",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Leeds United": {
+        "Team name": "Leeds United",
+        "Abbreviation": "LEE",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t2.png",
+        "Table position": 18,
+        "Matches player": 6,
+        "Matches won": 0,
+        "Matcher draw": 3,
+        "Matches lost": 3,
+        "Points": 3,
+        "Goal difference": 0,
+        "Next match": "Leeds United's next match takes place: ('15:00', ' Saturday 2 October 2021') against = WAT",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nLeeds United - WHU\n  1 -2",
+        "Players": {
+            "Illan Meslier": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Kristoffer Klaesson": {
+                "player_number": "13",
+                "player_position": "Goalkeeper"
+            },
+            "Luke Ayling": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Robin Koch": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Liam Cooper": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Diego Llorente": {
+                "player_number": "14",
+                "player_position": "Defender"
+            },
+            "Pascal Struijk": {
+                "player_number": "21",
+                "player_position": "Defender"
+            },
+            "Laurens De Bock": {
+                "player_number": "12",
+                "player_position": "Defender"
+            },
+            "Junior Firpo": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Charlie Cresswell": {
+                "player_number": "35",
+                "player_position": "Defender"
+            },
+            "Cody Drameh": {
+                "player_number": "37",
+                "player_position": "Defender"
+            },
+            "Leo Fuhr Hjelde": {
+                "player_number": "-",
+                "player_position": "Defender"
+            },
+            "Adam Forshaw": {
+                "player_number": "4",
+                "player_position": "Midfielder"
+            },
+            "Stuart Dallas": {
+                "player_number": "15",
+                "player_position": "Midfielder"
+            },
+            "Kalvin Phillips": {
+                "player_number": "23",
+                "player_position": "Midfielder"
+            },
+            "Mateusz Klich": {
+                "player_number": "43",
+                "player_position": "Midfielder"
+            },
+            "Jamie Shackleton": {
+                "player_number": "46",
+                "player_position": "Midfielder"
+            },
+            "Jack Harrison": {
+                "player_number": "22",
+                "player_position": "Midfielder"
+            },
+            "Crysencio Summerville": {
+                "player_number": "38",
+                "player_position": "Midfielder"
+            },
+            "Liam McCarron": {
+                "player_number": "45",
+                "player_position": "Midfielder"
+            },
+            "Daniel James": {
+                "player_number": "20",
+                "player_position": "Midfielder"
+            },
+            "Stuart McKinstry": {
+                "player_number": "39",
+                "player_position": "Midfielder"
+            },
+            "Nohan Kenneh": {
+                "player_number": "54",
+                "player_position": "Midfielder"
+            },
+            "Patrick Bamford": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Tyler Roberts": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Raphinha": {
+                "player_number": "10",
+                "player_position": "Forward"
+            },
+            "Rodrigo": {
+                "player_number": "19",
+                "player_position": "Forward"
+            },
+            "Sam Greenwood": {
+                "player_number": "42",
+                "player_position": "Forward"
+            },
+            "Joe Gelhardt": {
+                "player_number": "30",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Leicester City": {
+        "Team name": "Leicester City",
+        "Abbreviation": "LEI",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t13.png",
+        "Table position": 13,
+        "Matches player": 6,
+        "Matches won": 2,
+        "Matcher draw": 1,
+        "Matches lost": 3,
+        "Points": 7,
+        "Goal difference": 0,
+        "Next match": "Leicester City's next match takes place: ('14:00', ' Sunday 3 October 2021') against = CRY",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nLeicester City - BUR\n  2 -2",
+        "Players": {
+            "Kasper Schmeichel": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Danny Ward": {
+                "player_number": "12",
+                "player_position": "Goalkeeper"
+            },
+            "Eldin Jakupovic": {
+                "player_number": "35",
+                "player_position": "Goalkeeper"
+            },
+            "James Justin": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Wesley Fofana": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "\u00c7aglar S\u00f6y\u00fcnc\u00fc": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Jonny Evans": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Daniel Amartey": {
+                "player_number": "18",
+                "player_position": "Defender"
+            },
+            "Ricardo Pereira": {
+                "player_number": "21",
+                "player_position": "Defender"
+            },
+            "Timothy Castagne": {
+                "player_number": "27",
+                "player_position": "Defender"
+            },
+            "Luke Thomas": {
+                "player_number": "33",
+                "player_position": "Defender"
+            },
+            "Filip Benkovic": {
+                "player_number": "34",
+                "player_position": "Defender"
+            },
+            "Ryan Bertrand": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Jannik Vestergaard": {
+                "player_number": "23",
+                "player_position": "Defender"
+            },
+            "Vontae Daley-Campbell": {
+                "player_number": "38",
+                "player_position": "Defender"
+            },
+            "Ben Nelson": {
+                "player_number": "45",
+                "player_position": "Defender"
+            },
+            "Youri Tielemans": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "James Maddison": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Marc Albrighton": {
+                "player_number": "11",
+                "player_position": "Midfielder"
+            },
+            "Harvey Barnes": {
+                "player_number": "7",
+                "player_position": "Midfielder"
+            },
+            "Hamza Choudhury": {
+                "player_number": "20",
+                "player_position": "Midfielder"
+            },
+            "Nampalys Mendy": {
+                "player_number": "24",
+                "player_position": "Midfielder"
+            },
+            "Wilfred Ndidi": {
+                "player_number": "25",
+                "player_position": "Midfielder"
+            },
+            "Boubakary Soumar\u00e9": {
+                "player_number": "42",
+                "player_position": "Midfielder"
+            },
+            "Kiernan Dewsbury-Hall": {
+                "player_number": "22",
+                "player_position": "Midfielder"
+            },
+            "Thanawat Suengchitthawon": {
+                "player_number": "48",
+                "player_position": "Midfielder"
+            },
+            "Jamie Vardy": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Kelechi Iheanacho": {
+                "player_number": "14",
+                "player_position": "Forward"
+            },
+            "Ayoze P\u00e9rez": {
+                "player_number": "17",
+                "player_position": "Forward"
+            },
+            "Patson Daka": {
+                "player_number": "29",
+                "player_position": "Forward"
+            },
+            "Ademola Lookman": {
+                "player_number": "37",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Liverpool": {
+        "Team name": "Liverpool",
+        "Abbreviation": "LIV",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t14.png",
+        "Table position": 1,
+        "Matches player": 6,
+        "Matches won": 4,
+        "Matcher draw": 2,
+        "Matches lost": 0,
+        "Points": 14,
+        "Goal difference": 0,
+        "Next match": "Liverpool's next match takes place: ('16:30', ' Sunday 3 October 2021') against = MCI",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nBRE - Liverpool\n  3 -3",
+        "Players": {
+            "Alisson": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Adri\u00e1n": {
+                "player_number": "13",
+                "player_position": "Goalkeeper"
+            },
+            "Caoimhin Kelleher": {
+                "player_number": "62",
+                "player_position": "Goalkeeper"
+            },
+            "Loris Karius": {
+                "player_number": "22",
+                "player_position": "Goalkeeper"
+            },
+            "Virgil van Dijk": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Joseph Gomez": {
+                "player_number": "12",
+                "player_position": "Defender"
+            },
+            "Konstantinos Tsimikas": {
+                "player_number": "21",
+                "player_position": "Defender"
+            },
+            "Andrew Robertson": {
+                "player_number": "26",
+                "player_position": "Defender"
+            },
+            "Joel Matip": {
+                "player_number": "32",
+                "player_position": "Defender"
+            },
+            "Nathaniel Phillips": {
+                "player_number": "47",
+                "player_position": "Defender"
+            },
+            "Trent Alexander-Arnold": {
+                "player_number": "66",
+                "player_position": "Defender"
+            },
+            "Neco Williams": {
+                "player_number": "76",
+                "player_position": "Defender"
+            },
+            "Ibrahima Konat\u00e9": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Fabinho": {
+                "player_number": "3",
+                "player_position": "Midfielder"
+            },
+            "Thiago": {
+                "player_number": "6",
+                "player_position": "Midfielder"
+            },
+            "James Milner": {
+                "player_number": "7",
+                "player_position": "Midfielder"
+            },
+            "Naby Ke\u00efta": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Jordan Henderson": {
+                "player_number": "14",
+                "player_position": "Midfielder"
+            },
+            "Alex Oxlade-Chamberlain": {
+                "player_number": "15",
+                "player_position": "Midfielder"
+            },
+            "Curtis Jones": {
+                "player_number": "17",
+                "player_position": "Midfielder"
+            },
+            "Harvey Elliott": {
+                "player_number": "67",
+                "player_position": "Midfielder"
+            },
+            "James Balagizi": {
+                "player_number": "-",
+                "player_position": "Midfielder"
+            },
+            "Tyler Morton": {
+                "player_number": "80",
+                "player_position": "Midfielder"
+            },
+            "Conor Bradley": {
+                "player_number": "84",
+                "player_position": "Midfielder"
+            },
+            "Roberto Firmino": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Sadio Man\u00e9": {
+                "player_number": "10",
+                "player_position": "Forward"
+            },
+            "Mohamed Salah": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Diogo Jota": {
+                "player_number": "20",
+                "player_position": "Forward"
+            },
+            "Divock Origi": {
+                "player_number": "27",
+                "player_position": "Forward"
+            },
+            "Takumi Minamino": {
+                "player_number": "18",
+                "player_position": "Forward"
+            },
+            "Kaide Gordon": {
+                "player_number": "49",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Manchester City": {
+        "Team name": "Manchester City",
+        "Abbreviation": "MCI",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t43.png",
+        "Table position": 2,
+        "Matches player": 6,
+        "Matches won": 4,
+        "Matcher draw": 1,
+        "Matches lost": 1,
+        "Points": 13,
+        "Goal difference": 0,
+        "Next match": "Manchester City's next match takes place: ('16:30', ' Sunday 3 October 2021') against = LIV",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nCHE - Manchester City\n  0 -1",
+        "Players": {
+            "Zack Steffen": {
+                "player_number": "13",
+                "player_position": "Goalkeeper"
+            },
+            "Ederson": {
+                "player_number": "31",
+                "player_position": "Goalkeeper"
+            },
+            "Scott Carson": {
+                "player_number": "33",
+                "player_position": "Goalkeeper"
+            },
+            "Cieran Slicker": {
+                "player_number": "84",
+                "player_position": "Goalkeeper"
+            },
+            "Kyle Walker": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "R\u00faben Dias": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "John Stones": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Nathan Ak\u00e9": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Oleksandr Zinchenko": {
+                "player_number": "11",
+                "player_position": "Defender"
+            },
+            "Aymeric Laporte": {
+                "player_number": "14",
+                "player_position": "Defender"
+            },
+            "Benjamin Mendy": {
+                "player_number": "22",
+                "player_position": "Defender"
+            },
+            "Jo\u00e3o Cancelo": {
+                "player_number": "27",
+                "player_position": "Defender"
+            },
+            "Luke Mbete": {
+                "player_number": "79",
+                "player_position": "Defender"
+            },
+            "Joshua Wilson-Esbrand": {
+                "player_number": "97",
+                "player_position": "Defender"
+            },
+            "Conrad Egan-Riley": {
+                "player_number": "-",
+                "player_position": "Defender"
+            },
+            "Finley Burns": {
+                "player_number": "-",
+                "player_position": "Defender"
+            },
+            "Ilkay G\u00fcndogan": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Rodri": {
+                "player_number": "16",
+                "player_position": "Midfielder"
+            },
+            "Kevin De Bruyne": {
+                "player_number": "17",
+                "player_position": "Midfielder"
+            },
+            "Bernardo Silva": {
+                "player_number": "20",
+                "player_position": "Midfielder"
+            },
+            "Fernandinho": {
+                "player_number": "25",
+                "player_position": "Midfielder"
+            },
+            "Phil Foden": {
+                "player_number": "47",
+                "player_position": "Midfielder"
+            },
+            "Jack Grealish": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Cole Palmer": {
+                "player_number": "80",
+                "player_position": "Midfielder"
+            },
+            "Romeo Lavia": {
+                "player_number": "90",
+                "player_position": "Midfielder"
+            },
+            "James McAtee": {
+                "player_number": "-",
+                "player_position": "Midfielder"
+            },
+            "Raheem Sterling": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Gabriel Jesus": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Ferran Torres": {
+                "player_number": "21",
+                "player_position": "Forward"
+            },
+            "Riyad Mahrez": {
+                "player_number": "26",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Manchester United": {
+        "Team name": "Manchester United",
+        "Abbreviation": "MUN",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t1.png",
+        "Table position": 4,
+        "Matches player": 6,
+        "Matches won": 4,
+        "Matcher draw": 1,
+        "Matches lost": 1,
+        "Points": 13,
+        "Goal difference": 0,
+        "Next match": "Manchester United's next match takes place: ('12:30', ' Saturday 2 October 2021') against = EVE",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nManchester United - AVL\n  0 -1",
+        "Players": {
+            "David de Gea": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Dean Henderson": {
+                "player_number": "26",
+                "player_position": "Goalkeeper"
+            },
+            "Tom Heaton": {
+                "player_number": "22",
+                "player_position": "Goalkeeper"
+            },
+            "Lee Grant": {
+                "player_number": "13",
+                "player_position": "Goalkeeper"
+            },
+            "Matej Kovar": {
+                "player_number": "51",
+                "player_position": "Goalkeeper"
+            },
+            "Victor Lindel\u00f6f": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Eric Bailly": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Phil Jones": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Harry Maguire": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Luke Shaw": {
+                "player_number": "23",
+                "player_position": "Defender"
+            },
+            "Alex Telles": {
+                "player_number": "27",
+                "player_position": "Defender"
+            },
+            "Aaron Wan-Bissaka": {
+                "player_number": "29",
+                "player_position": "Defender"
+            },
+            "Diogo Dalot": {
+                "player_number": "20",
+                "player_position": "Defender"
+            },
+            "Teden Mengi": {
+                "player_number": "43",
+                "player_position": "Defender"
+            },
+            "Rapha\u00ebl Varane": {
+                "player_number": "19",
+                "player_position": "Defender"
+            },
+            "Paul Pogba": {
+                "player_number": "6",
+                "player_position": "Midfielder"
+            },
+            "Fred": {
+                "player_number": "17",
+                "player_position": "Midfielder"
+            },
+            "Bruno Fernandes": {
+                "player_number": "18",
+                "player_position": "Midfielder"
+            },
+            "Nemanja Matic": {
+                "player_number": "31",
+                "player_position": "Midfielder"
+            },
+            "Donny van de Beek": {
+                "player_number": "34",
+                "player_position": "Midfielder"
+            },
+            "Scott McTominay": {
+                "player_number": "39",
+                "player_position": "Midfielder"
+            },
+            "Hannibal Mejbri": {
+                "player_number": "46",
+                "player_position": "Midfielder"
+            },
+            "Jesse Lingard": {
+                "player_number": "14",
+                "player_position": "Midfielder"
+            },
+            "Juan Mata": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Facundo Pellistri": {
+                "player_number": "28",
+                "player_position": "Midfielder"
+            },
+            "Edinson Cavani": {
+                "player_number": "21",
+                "player_position": "Forward"
+            },
+            "Anthony Martial": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "Marcus Rashford": {
+                "player_number": "10",
+                "player_position": "Forward"
+            },
+            "Mason Greenwood": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Amad Diallo": {
+                "player_number": "16",
+                "player_position": "Forward"
+            },
+            "Anthony Elanga": {
+                "player_number": "36",
+                "player_position": "Forward"
+            },
+            "Shola Shoretire": {
+                "player_number": "47",
+                "player_position": "Forward"
+            },
+            "Jadon Sancho": {
+                "player_number": "25",
+                "player_position": "Forward"
+            },
+            "Cristiano Ronaldo": {
+                "player_number": "7",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Newcastle United": {
+        "Team name": "Newcastle United",
+        "Abbreviation": "NEW",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t4.png",
+        "Table position": 17,
+        "Matches player": 6,
+        "Matches won": 0,
+        "Matcher draw": 3,
+        "Matches lost": 3,
+        "Points": 3,
+        "Goal difference": 0,
+        "Next match": "Newcastle United's next match takes place: ('15:00', ' Saturday 2 October 2021') against = WOL",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nWAT - Newcastle United\n  1 -1",
+        "Players": {
+            "Martin D\u00fabravka": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Karl Darlow": {
+                "player_number": "26",
+                "player_position": "Goalkeeper"
+            },
+            "Mark Gillespie": {
+                "player_number": "29",
+                "player_position": "Goalkeeper"
+            },
+            "Daniel Langley": {
+                "player_number": "33",
+                "player_position": "Goalkeeper"
+            },
+            "Freddie Woodman": {
+                "player_number": "27",
+                "player_position": "Goalkeeper"
+            },
+            "Ciaran Clark": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Paul Dummett": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Fabian Sch\u00e4r": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Jamaal Lascelles": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Jamal Lewis": {
+                "player_number": "12",
+                "player_position": "Defender"
+            },
+            "Emil Krafth": {
+                "player_number": "17",
+                "player_position": "Defender"
+            },
+            "Federico Fern\u00e1ndez": {
+                "player_number": "18",
+                "player_position": "Defender"
+            },
+            "Javier Manquillo": {
+                "player_number": "19",
+                "player_position": "Defender"
+            },
+            "Jonjo Shelvey": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Matt Ritchie": {
+                "player_number": "11",
+                "player_position": "Midfielder"
+            },
+            "Isaac Hayden": {
+                "player_number": "14",
+                "player_position": "Midfielder"
+            },
+            "Jeff Hendrick": {
+                "player_number": "16",
+                "player_position": "Midfielder"
+            },
+            "Ryan Fraser": {
+                "player_number": "21",
+                "player_position": "Midfielder"
+            },
+            "Jacob Murphy": {
+                "player_number": "23",
+                "player_position": "Midfielder"
+            },
+            "Miguel Almir\u00f3n": {
+                "player_number": "24",
+                "player_position": "Midfielder"
+            },
+            "Sean Longstaff": {
+                "player_number": "36",
+                "player_position": "Midfielder"
+            },
+            "Elliot Anderson": {
+                "player_number": "32",
+                "player_position": "Midfielder"
+            },
+            "Joseph Willock": {
+                "player_number": "28",
+                "player_position": "Midfielder"
+            },
+            "Joe White": {
+                "player_number": "56",
+                "player_position": "Midfielder"
+            },
+            "Joelinton": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Allan Saint-Maximin": {
+                "player_number": "10",
+                "player_position": "Forward"
+            },
+            "Dwight Gayle": {
+                "player_number": "34",
+                "player_position": "Forward"
+            },
+            "Callum Wilson": {
+                "player_number": "9",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Norwich City": {
+        "Team name": "Norwich City",
+        "Abbreviation": "NOR",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t45.png",
+        "Table position": 20,
+        "Matches player": 6,
+        "Matches won": 0,
+        "Matcher draw": 0,
+        "Matches lost": 6,
+        "Points": 0,
+        "Goal difference": 0,
+        "Next match": "Norwich City's next match takes place: ('15:00', ' Saturday 2 October 2021') against = BUR",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nEVE - Norwich City\n  2 -0",
+        "Players": {
+            "Tim Krul": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Michael McGovern": {
+                "player_number": "33",
+                "player_position": "Goalkeeper"
+            },
+            "Angus Gunn": {
+                "player_number": "28",
+                "player_position": "Goalkeeper"
+            },
+            "Max Aarons": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Sam Byram": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Grant Hanley": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Christoph Zimmermann": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Bali Mumba": {
+                "player_number": "26",
+                "player_position": "Defender"
+            },
+            "Andrew Omobamidele": {
+                "player_number": "44",
+                "player_position": "Defender"
+            },
+            "Ben Gibson": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Dimitris Giannoulis": {
+                "player_number": "30",
+                "player_position": "Defender"
+            },
+            "Brandon Williams": {
+                "player_number": "21",
+                "player_position": "Defender"
+            },
+            "Ozan Kabak": {
+                "player_number": "15",
+                "player_position": "Defender"
+            },
+            "Lukas Rupp": {
+                "player_number": "7",
+                "player_position": "Midfielder"
+            },
+            "Kieran Dowell": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Przemyslaw Placheta": {
+                "player_number": "11",
+                "player_position": "Midfielder"
+            },
+            "Todd Cantwell": {
+                "player_number": "14",
+                "player_position": "Midfielder"
+            },
+            "Jacob S\u00f8rensen": {
+                "player_number": "19",
+                "player_position": "Midfielder"
+            },
+            "Kenny McLean": {
+                "player_number": "23",
+                "player_position": "Midfielder"
+            },
+            "Milot Rashica": {
+                "player_number": "17",
+                "player_position": "Midfielder"
+            },
+            "Billy Gilmour": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Pierre Lees-Melou": {
+                "player_number": "20",
+                "player_position": "Midfielder"
+            },
+            "Mathias Normann": {
+                "player_number": "16",
+                "player_position": "Midfielder"
+            },
+            "Teemu Pukki": {
+                "player_number": "22",
+                "player_position": "Forward"
+            },
+            "Adam Idah": {
+                "player_number": "35",
+                "player_position": "Forward"
+            },
+            "Joshua Sargent": {
+                "player_number": "24",
+                "player_position": "Forward"
+            },
+            "Christos Tzolis": {
+                "player_number": "18",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Southampton": {
+        "Team name": "Southampton",
+        "Abbreviation": "SOU",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t20.png",
+        "Table position": 16,
+        "Matches player": 6,
+        "Matches won": 0,
+        "Matcher draw": 4,
+        "Matches lost": 2,
+        "Points": 4,
+        "Goal difference": 0,
+        "Next match": "Southampton's next match takes place: ('15:00', ' Saturday 2 October 2021') against = CHE",
+        "Previous match": "Recent Result - Sunday 26 September 2021 \nSouthampton - WOL\n  0 -1",
+        "Players": {
+            "Alex McCarthy": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Harry Lewis": {
+                "player_number": "41",
+                "player_position": "Goalkeeper"
+            },
+            "Fraser Forster": {
+                "player_number": "44",
+                "player_position": "Goalkeeper"
+            },
+            "Kyle Walker-Peters": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Jack Stephens": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Mohammed Salisu": {
+                "player_number": "22",
+                "player_position": "Defender"
+            },
+            "Jan Bednarek": {
+                "player_number": "35",
+                "player_position": "Defender"
+            },
+            "Yan Valery": {
+                "player_number": "43",
+                "player_position": "Defender"
+            },
+            "Romain Perraud": {
+                "player_number": "15",
+                "player_position": "Defender"
+            },
+            "Valentino Livramento": {
+                "player_number": "21",
+                "player_position": "Defender"
+            },
+            "Thierry Small": {
+                "player_number": "16",
+                "player_position": "Defender"
+            },
+            "Lyanco": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Oriol Romeu": {
+                "player_number": "6",
+                "player_position": "Midfielder"
+            },
+            "James Ward-Prowse": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Nathan Redmond": {
+                "player_number": "11",
+                "player_position": "Midfielder"
+            },
+            "Moussa Djenepo": {
+                "player_number": "19",
+                "player_position": "Midfielder"
+            },
+            "Stuart Armstrong": {
+                "player_number": "17",
+                "player_position": "Midfielder"
+            },
+            "William Smallbone": {
+                "player_number": "20",
+                "player_position": "Midfielder"
+            },
+            "Nathan Tella": {
+                "player_number": "23",
+                "player_position": "Midfielder"
+            },
+            "Ibrahima Diallo": {
+                "player_number": "27",
+                "player_position": "Midfielder"
+            },
+            "Mohamed Elyounoussi": {
+                "player_number": "24",
+                "player_position": "Midfielder"
+            },
+            "Che Adams": {
+                "player_number": "10",
+                "player_position": "Forward"
+            },
+            "Shane Long": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Theo Walcott": {
+                "player_number": "32",
+                "player_position": "Forward"
+            },
+            "Armando Broja": {
+                "player_number": "18",
+                "player_position": "Forward"
+            },
+            "Adam Armstrong": {
+                "player_number": "9",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Tottenham Hotspur": {
+        "Team name": "Tottenham Hotspur",
+        "Abbreviation": "TOT",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t6.png",
+        "Table position": 11,
+        "Matches player": 6,
+        "Matches won": 3,
+        "Matcher draw": 0,
+        "Matches lost": 3,
+        "Points": 9,
+        "Goal difference": 0,
+        "Next match": "Tottenham Hotspur's next match takes place: ('14:00', ' Sunday 3 October 2021') against = AVL",
+        "Previous match": "Recent Result - Sunday 26 September 2021 \nARS - Tottenham Hotspur\n  3 -1",
+        "Players": {
+            "Hugo Lloris": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Pierluigi Gollini": {
+                "player_number": "22",
+                "player_position": "Goalkeeper"
+            },
+            "Brandon Austin": {
+                "player_number": "40",
+                "player_position": "Goalkeeper"
+            },
+            "Matt Doherty": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Sergio Reguil\u00f3n": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Davinson S\u00e1nchez": {
+                "player_number": "6",
+                "player_position": "Defender"
+            },
+            "Joe Rodon": {
+                "player_number": "14",
+                "player_position": "Defender"
+            },
+            "Japhet Tanganga": {
+                "player_number": "25",
+                "player_position": "Defender"
+            },
+            "Ben Davies": {
+                "player_number": "33",
+                "player_position": "Defender"
+            },
+            "Eric Dier": {
+                "player_number": "15",
+                "player_position": "Defender"
+            },
+            "Cristian Romero": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Maksim Paskotsi": {
+                "player_number": "48",
+                "player_position": "Defender"
+            },
+            "Kallum Cesay": {
+                "player_number": "50",
+                "player_position": "Defender"
+            },
+            "Brooklyn Lyons-Foster": {
+                "player_number": "53",
+                "player_position": "Defender"
+            },
+            "Emerson Royal": {
+                "player_number": "12",
+                "player_position": "Defender"
+            },
+            "Tobi Omole": {
+                "player_number": "49",
+                "player_position": "Defender"
+            },
+            "Malachi Fagan-Walcott": {
+                "player_number": "46",
+                "player_position": "Defender"
+            },
+            "Pierre-Emile H\u00f8jbjerg": {
+                "player_number": "5",
+                "player_position": "Midfielder"
+            },
+            "Harry Winks": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Giovani Lo Celso": {
+                "player_number": "18",
+                "player_position": "Midfielder"
+            },
+            "Dele Alli": {
+                "player_number": "20",
+                "player_position": "Midfielder"
+            },
+            "Tanguy Ndombele": {
+                "player_number": "28",
+                "player_position": "Midfielder"
+            },
+            "Ryan Sessegnon": {
+                "player_number": "19",
+                "player_position": "Midfielder"
+            },
+            "Oliver Skipp": {
+                "player_number": "29",
+                "player_position": "Midfielder"
+            },
+            "Harvey White": {
+                "player_number": "42",
+                "player_position": "Midfielder"
+            },
+            "Nile John": {
+                "player_number": "43",
+                "player_position": "Midfielder"
+            },
+            "Matthew Craig": {
+                "player_number": "51",
+                "player_position": "Midfielder"
+            },
+            "Romaine Mundle": {
+                "player_number": "55",
+                "player_position": "Midfielder"
+            },
+            "Son Heung-Min": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Harry Kane": {
+                "player_number": "10",
+                "player_position": "Forward"
+            },
+            "Steven Bergwijn": {
+                "player_number": "23",
+                "player_position": "Forward"
+            },
+            "Lucas Moura": {
+                "player_number": "27",
+                "player_position": "Forward"
+            },
+            "Jack Clarke": {
+                "player_number": "47",
+                "player_position": "Forward"
+            },
+            "Bryan Gil": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Dane Scarlett": {
+                "player_number": "44",
+                "player_position": "Forward"
+            },
+            "Dilan Markanday": {
+                "player_number": "54",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Watford": {
+        "Team name": "Watford",
+        "Abbreviation": "WAT",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t57.png",
+        "Table position": 12,
+        "Matches player": 6,
+        "Matches won": 2,
+        "Matcher draw": 1,
+        "Matches lost": 3,
+        "Points": 7,
+        "Goal difference": 0,
+        "Next match": "Watford's next match takes place: ('15:00', ' Saturday 2 October 2021') against = LEE",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nWatford - NEW\n  1 -1",
+        "Players": {
+            "Ben Foster": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Daniel Bachmann": {
+                "player_number": "26",
+                "player_position": "Goalkeeper"
+            },
+            "Robert Elliot": {
+                "player_number": "35",
+                "player_position": "Goalkeeper"
+            },
+            "Jeremy Ngakia": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "William Troost-Ekong": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Adam Masina": {
+                "player_number": "11",
+                "player_position": "Defender"
+            },
+            "Craig Cathcart": {
+                "player_number": "15",
+                "player_position": "Defender"
+            },
+            "Kiko Femen\u00eda": {
+                "player_number": "21",
+                "player_position": "Defender"
+            },
+            "Christian Kabasele": {
+                "player_number": "27",
+                "player_position": "Defender"
+            },
+            "Francisco Sierralta": {
+                "player_number": "31",
+                "player_position": "Defender"
+            },
+            "Danny Rose": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "James Morris": {
+                "player_number": "42",
+                "player_position": "Defender"
+            },
+            "Tom Cleverley": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Ken Sema": {
+                "player_number": "12",
+                "player_position": "Midfielder"
+            },
+            "Dan Gosling": {
+                "player_number": "16",
+                "player_position": "Midfielder"
+            },
+            "Daniel Phillips": {
+                "player_number": "52",
+                "player_position": "Midfielder"
+            },
+            "Imran Louza": {
+                "player_number": "6",
+                "player_position": "Midfielder"
+            },
+            "Ignacio Pussetto": {
+                "player_number": "33",
+                "player_position": "Midfielder"
+            },
+            "Peter Etebo": {
+                "player_number": "4",
+                "player_position": "Midfielder"
+            },
+            "Kwadwo Baah": {
+                "player_number": "34",
+                "player_position": "Midfielder"
+            },
+            "Juraj Kucka": {
+                "player_number": "33",
+                "player_position": "Midfielder"
+            },
+            "Ozan Tufan": {
+                "player_number": "18",
+                "player_position": "Midfielder"
+            },
+            "Moussa Sissoko": {
+                "player_number": "19",
+                "player_position": "Midfielder"
+            },
+            "Jo\u00e3o Pedro": {
+                "player_number": "10",
+                "player_position": "Forward"
+            },
+            "Ismaila Sarr": {
+                "player_number": "23",
+                "player_position": "Forward"
+            },
+            "Emmanuel Dennis": {
+                "player_number": "25",
+                "player_position": "Forward"
+            },
+            "Ashley Fletcher": {
+                "player_number": "17",
+                "player_position": "Forward"
+            },
+            "Joshua King": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Cucho Hern\u00e1ndez": {
+                "player_number": "29",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "West Ham United": {
+        "Team name": "West Ham United",
+        "Abbreviation": "WHU",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t21.png",
+        "Table position": 7,
+        "Matches player": 6,
+        "Matches won": 3,
+        "Matcher draw": 2,
+        "Matches lost": 1,
+        "Points": 11,
+        "Goal difference": 0,
+        "Next match": "West Ham United's next match takes place: ('14:00', ' Sunday 3 October 2021') against = BRE",
+        "Previous match": "Recent Result - Saturday 25 September 2021 \nLEE - West Ham United\n  1 -2",
+        "Players": {
+            "Lukasz Fabianski": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "David Martin": {
+                "player_number": "25",
+                "player_position": "Goalkeeper"
+            },
+            "Darren Randolph": {
+                "player_number": "35",
+                "player_position": "Goalkeeper"
+            },
+            "Alphonse Areola": {
+                "player_number": "13",
+                "player_position": "Goalkeeper"
+            },
+            "Aaron Cresswell": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "Vladimir Coufal": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Angelo Ogbonna": {
+                "player_number": "21",
+                "player_position": "Defender"
+            },
+            "Issa Diop": {
+                "player_number": "23",
+                "player_position": "Defender"
+            },
+            "Ryan Fredericks": {
+                "player_number": "24",
+                "player_position": "Defender"
+            },
+            "Arthur Masuaku": {
+                "player_number": "26",
+                "player_position": "Defender"
+            },
+            "Ben Johnson": {
+                "player_number": "31",
+                "player_position": "Defender"
+            },
+            "Craig Dawson": {
+                "player_number": "15",
+                "player_position": "Defender"
+            },
+            "Winston Reid": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Jamal Baptiste": {
+                "player_number": "75",
+                "player_position": "Defender"
+            },
+            "Kurt Zouma": {
+                "player_number": "4",
+                "player_position": "Defender"
+            },
+            "Ajibola Alese": {
+                "player_number": "42",
+                "player_position": "Defender"
+            },
+            "Manuel Lanzini": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Mark Noble": {
+                "player_number": "16",
+                "player_position": "Midfielder"
+            },
+            "Pablo Fornals": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Tomas Soucek": {
+                "player_number": "28",
+                "player_position": "Midfielder"
+            },
+            "Declan Rice": {
+                "player_number": "41",
+                "player_position": "Midfielder"
+            },
+            "Nikola Vlasic": {
+                "player_number": "11",
+                "player_position": "Midfielder"
+            },
+            "Alex Kr\u00e1l": {
+                "player_number": "33",
+                "player_position": "Midfielder"
+            },
+            "Andriy Yarmolenko": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Sa\u00efd Benrahma": {
+                "player_number": "22",
+                "player_position": "Forward"
+            },
+            "Jarrod Bowen": {
+                "player_number": "20",
+                "player_position": "Forward"
+            },
+            "Michail Antonio": {
+                "player_number": "9",
+                "player_position": "Forward"
+            }
+        }
+    },
+    "Wolverhampton Wanderers": {
+        "Team name": "Wolverhampton Wanderers",
+        "Abbreviation": "WOL",
+        "Badge": "https://resources.premierleague.com/premierleague/badges/25/t39.png",
+        "Table position": 14,
+        "Matches player": 6,
+        "Matches won": 2,
+        "Matcher draw": 0,
+        "Matches lost": 4,
+        "Points": 6,
+        "Goal difference": 0,
+        "Next match": "Wolverhampton Wanderers's next match takes place: ('15:00', ' Saturday 2 October 2021') against = NEW",
+        "Previous match": "Recent Result - Sunday 26 September 2021 \nSOU - Wolverhampton Wanderers\n  0 -1",
+        "Players": {
+            "John Ruddy": {
+                "player_number": "21",
+                "player_position": "Goalkeeper"
+            },
+            "Jos\u00e9 S\u00e1": {
+                "player_number": "1",
+                "player_position": "Goalkeeper"
+            },
+            "Louie Moulden": {
+                "player_number": "13",
+                "player_position": "Goalkeeper"
+            },
+            "Ki-Jana Hoever": {
+                "player_number": "2",
+                "player_position": "Defender"
+            },
+            "Mar\u00e7al": {
+                "player_number": "5",
+                "player_position": "Defender"
+            },
+            "Willy Boly": {
+                "player_number": "15",
+                "player_position": "Defender"
+            },
+            "Conor Coady": {
+                "player_number": "16",
+                "player_position": "Defender"
+            },
+            "Jonny": {
+                "player_number": "19",
+                "player_position": "Defender"
+            },
+            "N\u00e9lson Semedo": {
+                "player_number": "22",
+                "player_position": "Defender"
+            },
+            "Maximilian Kilman": {
+                "player_number": "23",
+                "player_position": "Defender"
+            },
+            "Yerson Mosquera": {
+                "player_number": "14",
+                "player_position": "Defender"
+            },
+            "Rayan A\u00eft-Nouri": {
+                "player_number": "3",
+                "player_position": "Defender"
+            },
+            "R\u00faben Neves": {
+                "player_number": "8",
+                "player_position": "Midfielder"
+            },
+            "Daniel Podence": {
+                "player_number": "10",
+                "player_position": "Midfielder"
+            },
+            "Romain Sa\u00efss": {
+                "player_number": "27",
+                "player_position": "Midfielder"
+            },
+            "Jo\u00e3o Moutinho": {
+                "player_number": "28",
+                "player_position": "Midfielder"
+            },
+            "Leander Dendoncker": {
+                "player_number": "32",
+                "player_position": "Midfielder"
+            },
+            "Luke Cundle": {
+                "player_number": "39",
+                "player_position": "Midfielder"
+            },
+            "Pedro Neto": {
+                "player_number": "7",
+                "player_position": "Forward"
+            },
+            "Ra\u00fal Jim\u00e9nez": {
+                "player_number": "9",
+                "player_position": "Forward"
+            },
+            "F\u00e1bio Silva": {
+                "player_number": "17",
+                "player_position": "Forward"
+            },
+            "Adama Traor\u00e9": {
+                "player_number": "37",
+                "player_position": "Forward"
+            },
+            "Trinc\u00e3o": {
+                "player_number": "11",
+                "player_position": "Forward"
+            },
+            "Chem Campbell": {
+                "player_number": "77",
+                "player_position": "Forward"
+            },
+            "Hwang Hee-Chan": {
+                "player_number": "26",
+                "player_position": "Forward"
+            }
+        }
+    }
+}
